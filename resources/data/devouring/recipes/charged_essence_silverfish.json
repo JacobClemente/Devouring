@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:charged_essence"
+        },
+        {
+            "item": "minecraft:stone"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:charged_essence_silverfish",
+        "count": 1
+    }
+}

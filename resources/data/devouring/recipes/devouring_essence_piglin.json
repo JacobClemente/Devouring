@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "devouring:devouring_essence"
+		},
+		{
+			"item": "minecraft:porkchop"
+		},
+		{
+			"item": "minecraft:crossbow"
+		}
+	],
+	"result": {
+		"item": "devouring:devouring_essence_piglin",
+		"count": 1
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:devouring_essence"
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:devouring_essence_blaze",
+        "count": 1
+    }
+}

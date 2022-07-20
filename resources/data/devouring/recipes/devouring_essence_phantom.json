@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:devouring_essence"
+        },
+        {
+            "item": "minecraft:phantom_membrane"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:devouring_essence_phantom",
+        "count": 1
+    }
+}

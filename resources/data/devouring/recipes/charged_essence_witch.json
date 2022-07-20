@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:charged_essence"
+        },
+        {
+            "item": "minecraft:nether_wart"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:charged_essence_witch",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:charged_essence"
+        },
+        {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:charged_essence_cave_spider",
+        "count": 1
+    }
+}

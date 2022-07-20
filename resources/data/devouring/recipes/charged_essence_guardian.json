@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:charged_essence"
+        },
+        {
+            "item": "minecraft:prismarine_shard"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:charged_essence_guardian",
+        "count": 1
+    }
+}

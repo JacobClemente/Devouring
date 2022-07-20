@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "x x",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    "result":
+    {
+        "item": "devouring:empty_spawner",
+        "count": 1
+    }
+}

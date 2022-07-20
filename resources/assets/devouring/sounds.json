@@ -1,0 +1,27 @@
+{
+	"devouring_ambient": {
+		"subtitle": "devouring.subtitle.devouring_ambient",
+		"sounds": [
+			"devouring:devouring_ambient_1",
+			"devouring:devouring_ambient_2",
+			"devouring:devouring_ambient_3",
+			"devouring:devouring_ambient_4"
+		]
+	},
+	"devouring_consume": {
+		"subtitle": "devouring.subtitle.devouring_consume",
+		"sounds": [
+			"devouring:devouring_consume_1",
+			"devouring:devouring_consume_2",
+			"devouring:devouring_consume_3",
+			"devouring:devouring_consume_4",
+			"devouring:devouring_consume_5"
+		]
+	},
+	"devouring_ascend": {
+		"subtitle": "devouring.subtitle.devouring_ascend",
+		"sounds": [
+			"devouring:devouring_ascend"
+		]
+	}
+}

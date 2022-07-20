@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "x x",
+        "xxx",
+        " x "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:clay"
+        }
+    },
+    "result":
+    {
+        "item": "devouring:altar",
+        "count": 1
+    }
+}

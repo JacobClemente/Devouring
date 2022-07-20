@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:charged_essence"
+        },
+        {
+            "item": "minecraft:shulker_shell"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:charged_essence_shulker",
+        "count": 1
+    }
+}

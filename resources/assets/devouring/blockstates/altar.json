@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "devouring:block/altar",
+			"y": 90
+		},
+		"facing=north": {
+			"model": "devouring:block/altar"
+		},
+		"facing=south": {
+			"model": "devouring:block/altar",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "devouring:block/altar",
+			"y": 270
+		}
+	}
+}

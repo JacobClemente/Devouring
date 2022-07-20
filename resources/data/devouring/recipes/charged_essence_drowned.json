@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+            "item": "devouring:charged_essence"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+{
+            "item": "minecraft:pufferfish"
+        }
+    ],
+    "result":
+    {
+        "item": "devouring:charged_essence_drowned",
+        "count": 1
+    }
+}
